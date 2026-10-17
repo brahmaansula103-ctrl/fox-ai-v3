@@ -1,0 +1,6 @@
+{
+  "name": "FOX AI - WinGo 2-Level Color Prediction Platform",
+  "description": "Real-time WinGo 30S and 1M color prediction engine with 2-level martingale recovery logic, live AR Lottery draw synchronization, AI council consensus, and margin capital calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
